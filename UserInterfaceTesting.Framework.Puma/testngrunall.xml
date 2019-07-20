@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Parallel Test Suite" parallel="methods" thread-count="5">
-  <test name="Regression">
+<suite name="SuiteSprintAll" thread-count="5">
+  <test name="RegressionAll">
     <classes>
       <class name="tests.Sprint1Tests"/>
       <class name="tests.Sprint2Tests"/>
@@ -9,5 +9,5 @@
       <class name="tests.Sprint4Tests"/>
       <class name="tests.Sprint5Tests"/>
     </classes>
-  </test> <!-- Regression -->
-</suite> <!-- Parallel Test Suite -->
+  </test> <!-- RegressionSprintAll -->
+</suite> <!-- SuiteSprintAll -->

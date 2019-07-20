@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Suite3">
+<suite name="SuiteSprint3">
   <test thread-count="5" name="RegressionSprint3">
     <classes>
       <class name="tests.Sprint3Tests"/>
     </classes>
   </test> <!-- RegressionSprint3 -->
-</suite> <!-- Suite3 -->
+</suite> <!-- SuieSprint3 -->
