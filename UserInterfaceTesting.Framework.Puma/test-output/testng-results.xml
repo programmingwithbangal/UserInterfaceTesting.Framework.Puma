@@ -2,140 +2,140 @@
 <testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="10966" started-at="2019-07-18T01:38:10Z" finished-at="2019-07-18T01:38:21Z">
+  <suite name="Suite4" duration-ms="12480" started-at="2019-07-20T12:26:36Z" finished-at="2019-07-20T12:26:48Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="10966" started-at="2019-07-18T01:38:10Z" finished-at="2019-07-18T01:38:21Z">
-      <class name="tests.Sprint1Tests">
-        <test-method status="PASS" signature="SetupBeforeEveryTest()[pri:0, instance:tests.Sprint1Tests@1761e840]" name="SetupBeforeEveryTest" is-config="true" duration-ms="3629" started-at="2019-07-18T01:38:10Z" finished-at="2019-07-18T01:38:13Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- SetupBeforeEveryTest -->
-        <test-method status="PASS" signature="Sprint1Test()[pri:0, instance:tests.Sprint1Tests@1761e840]" name="Sprint1Test" duration-ms="4581" started-at="2019-07-18T01:38:13Z" finished-at="2019-07-18T01:38:18Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Sprint1Test -->
-        <test-method status="PASS" signature="SetupAfterEveryTest()[pri:0, instance:tests.Sprint1Tests@1761e840]" name="SetupAfterEveryTest" is-config="true" duration-ms="2704" started-at="2019-07-18T01:38:18Z" finished-at="2019-07-18T01:38:21Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- SetupAfterEveryTest -->
-      </class> <!-- tests.Sprint1Tests -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
-  <suite name="Suite (1)" duration-ms="16927" started-at="2019-07-18T01:38:30Z" finished-at="2019-07-18T01:38:47Z">
-    <groups>
-    </groups>
-    <test name="Test" duration-ms="16927" started-at="2019-07-18T01:38:30Z" finished-at="2019-07-18T01:38:47Z">
-      <class name="tests.Sprint3Tests">
-        <test-method status="PASS" signature="SetupBeforeEveryTest()[pri:0, instance:tests.Sprint3Tests@4c75cab9]" name="SetupBeforeEveryTest" is-config="true" duration-ms="2256" started-at="2019-07-18T01:38:30Z" finished-at="2019-07-18T01:38:32Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- SetupBeforeEveryTest -->
-        <test-method status="PASS" signature="Sprint3TestFemale()[pri:0, instance:tests.Sprint3Tests@4c75cab9]" name="Sprint3TestFemale" duration-ms="4499" started-at="2019-07-18T01:38:32Z" finished-at="2019-07-18T01:38:37Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Sprint3TestFemale -->
-        <test-method status="PASS" signature="SetupAfterEveryTest()[pri:0, instance:tests.Sprint3Tests@4c75cab9]" name="SetupAfterEveryTest" is-config="true" duration-ms="2706" started-at="2019-07-18T01:38:37Z" finished-at="2019-07-18T01:38:39Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- SetupAfterEveryTest -->
-        <test-method status="PASS" signature="SetupBeforeEveryTest()[pri:0, instance:tests.Sprint3Tests@4c75cab9]" name="SetupBeforeEveryTest" is-config="true" duration-ms="2260" started-at="2019-07-18T01:38:39Z" finished-at="2019-07-18T01:38:41Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- SetupBeforeEveryTest -->
-        <test-method status="PASS" signature="Sprint3TestOther()[pri:0, instance:tests.Sprint3Tests@4c75cab9]" name="Sprint3TestOther" duration-ms="4457" started-at="2019-07-18T01:38:41Z" finished-at="2019-07-18T01:38:46Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Sprint3TestOther -->
-        <test-method status="PASS" signature="SetupAfterEveryTest()[pri:0, instance:tests.Sprint3Tests@4c75cab9]" name="SetupAfterEveryTest" is-config="true" duration-ms="746" started-at="2019-07-18T01:38:46Z" finished-at="2019-07-18T01:38:47Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- SetupAfterEveryTest -->
-      </class> <!-- tests.Sprint3Tests -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite (1) -->
-  <suite name="Suite (0)" duration-ms="8998" started-at="2019-07-18T01:38:21Z" finished-at="2019-07-18T01:38:30Z">
-    <groups>
-    </groups>
-    <test name="Test" duration-ms="8998" started-at="2019-07-18T01:38:21Z" finished-at="2019-07-18T01:38:30Z">
-      <class name="tests.Sprint2Tests">
-        <test-method status="PASS" signature="SetupBeforeEveryTest()[pri:0, instance:tests.Sprint2Tests@18ef96]" name="SetupBeforeEveryTest" is-config="true" duration-ms="2251" started-at="2019-07-18T01:38:21Z" finished-at="2019-07-18T01:38:23Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- SetupBeforeEveryTest -->
-        <test-method status="PASS" signature="Sprint2Test()[pri:0, instance:tests.Sprint2Tests@18ef96]" name="Sprint2Test" duration-ms="4059" started-at="2019-07-18T01:38:23Z" finished-at="2019-07-18T01:38:27Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Sprint2Test -->
-        <test-method status="PASS" signature="SetupAfterEveryTest()[pri:0, instance:tests.Sprint2Tests@18ef96]" name="SetupAfterEveryTest" is-config="true" duration-ms="2685" started-at="2019-07-18T01:38:27Z" finished-at="2019-07-18T01:38:30Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- SetupAfterEveryTest -->
-      </class> <!-- tests.Sprint2Tests -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite (0) -->
-  <suite name="Suite (3)" duration-ms="19553" started-at="2019-07-18T01:39:07Z" finished-at="2019-07-18T01:39:26Z">
-    <groups>
-    </groups>
-    <test name="Test" duration-ms="19553" started-at="2019-07-18T01:39:07Z" finished-at="2019-07-18T01:39:26Z">
-      <class name="tests.Sprint5Tests">
-        <test-method status="PASS" signature="SetupBeforeEveryTest()[pri:0, instance:tests.Sprint5Tests@22a71081]" name="SetupBeforeEveryTest" is-config="true" duration-ms="2257" started-at="2019-07-18T01:39:07Z" finished-at="2019-07-18T01:39:09Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- SetupBeforeEveryTest -->
-        <test-method status="PASS" signature="Sprint5TestFemale()[pri:0, instance:tests.Sprint5Tests@22a71081]" name="Sprint5TestFemale" duration-ms="5703" started-at="2019-07-18T01:39:09Z" finished-at="2019-07-18T01:39:15Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Sprint5TestFemale -->
-        <test-method status="PASS" signature="SetupAfterEveryTest()[pri:0, instance:tests.Sprint5Tests@22a71081]" name="SetupAfterEveryTest" is-config="true" duration-ms="736" started-at="2019-07-18T01:39:15Z" finished-at="2019-07-18T01:39:16Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- SetupAfterEveryTest -->
-        <test-method status="PASS" signature="SetupBeforeEveryTest()[pri:0, instance:tests.Sprint5Tests@22a71081]" name="SetupBeforeEveryTest" is-config="true" duration-ms="2247" started-at="2019-07-18T01:39:16Z" finished-at="2019-07-18T01:39:18Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- SetupBeforeEveryTest -->
-        <test-method status="PASS" signature="Sprint5TestOther()[pri:0, instance:tests.Sprint5Tests@22a71081]" name="Sprint5TestOther" duration-ms="5906" started-at="2019-07-18T01:39:18Z" finished-at="2019-07-18T01:39:24Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Sprint5TestOther -->
-        <test-method status="PASS" signature="SetupAfterEveryTest()[pri:0, instance:tests.Sprint5Tests@22a71081]" name="SetupAfterEveryTest" is-config="true" duration-ms="2701" started-at="2019-07-18T01:39:24Z" finished-at="2019-07-18T01:39:26Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- SetupAfterEveryTest -->
-      </class> <!-- tests.Sprint5Tests -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite (3) -->
-  <suite name="Suite (2)" duration-ms="20215" started-at="2019-07-18T01:38:47Z" finished-at="2019-07-18T01:39:07Z">
-    <groups>
-    </groups>
-    <test name="Test" duration-ms="20215" started-at="2019-07-18T01:38:47Z" finished-at="2019-07-18T01:39:07Z">
+    <test name="RegressionSprint4" duration-ms="12480" started-at="2019-07-20T12:26:36Z" finished-at="2019-07-20T12:26:48Z">
       <class name="tests.Sprint4Tests">
-        <test-method status="PASS" signature="SetupBeforeEveryTest()[pri:0, instance:tests.Sprint4Tests@763d9750]" name="SetupBeforeEveryTest" is-config="true" duration-ms="2342" started-at="2019-07-18T01:38:47Z" finished-at="2019-07-18T01:38:49Z">
+        <test-method status="PASS" signature="SetupBeforeEveryTest()[pri:0, instance:tests.Sprint4Tests@763d9750]" name="SetupBeforeEveryTest" is-config="true" duration-ms="2017" started-at="2019-07-20T12:26:36Z" finished-at="2019-07-20T12:26:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetupBeforeEveryTest -->
-        <test-method status="PASS" signature="Sprint4TestFemale()[pri:0, instance:tests.Sprint4Tests@763d9750]" name="Sprint4TestFemale" duration-ms="4910" started-at="2019-07-18T01:38:49Z" finished-at="2019-07-18T01:38:54Z">
+        <test-method status="PASS" signature="Sprint4TestFemale()[pri:0, instance:tests.Sprint4Tests@763d9750]" name="Sprint4TestFemale" duration-ms="3463" started-at="2019-07-20T12:26:38Z" finished-at="2019-07-20T12:26:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Sprint4TestFemale -->
-        <test-method status="PASS" signature="SetupAfterEveryTest()[pri:0, instance:tests.Sprint4Tests@763d9750]" name="SetupAfterEveryTest" is-config="true" duration-ms="2687" started-at="2019-07-18T01:38:54Z" finished-at="2019-07-18T01:38:57Z">
+        <test-method status="PASS" signature="SetupAfterEveryTest()[pri:0, instance:tests.Sprint4Tests@763d9750]" name="SetupAfterEveryTest" is-config="true" duration-ms="629" started-at="2019-07-20T12:26:41Z" finished-at="2019-07-20T12:26:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetupAfterEveryTest -->
-        <test-method status="PASS" signature="SetupBeforeEveryTest()[pri:0, instance:tests.Sprint4Tests@763d9750]" name="SetupBeforeEveryTest" is-config="true" duration-ms="2239" started-at="2019-07-18T01:38:57Z" finished-at="2019-07-18T01:38:59Z">
+        <test-method status="PASS" signature="SetupBeforeEveryTest()[pri:0, instance:tests.Sprint4Tests@763d9750]" name="SetupBeforeEveryTest" is-config="true" duration-ms="2036" started-at="2019-07-20T12:26:42Z" finished-at="2019-07-20T12:26:44Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetupBeforeEveryTest -->
-        <test-method status="PASS" signature="Sprint4TestOther()[pri:0, instance:tests.Sprint4Tests@763d9750]" name="Sprint4TestOther" duration-ms="5349" started-at="2019-07-18T01:38:59Z" finished-at="2019-07-18T01:39:04Z">
+        <test-method status="PASS" signature="Sprint4TestOther()[pri:0, instance:tests.Sprint4Tests@763d9750]" name="Sprint4TestOther" duration-ms="3723" started-at="2019-07-20T12:26:44Z" finished-at="2019-07-20T12:26:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Sprint4TestOther -->
-        <test-method status="PASS" signature="SetupAfterEveryTest()[pri:0, instance:tests.Sprint4Tests@763d9750]" name="SetupAfterEveryTest" is-config="true" duration-ms="2684" started-at="2019-07-18T01:39:04Z" finished-at="2019-07-18T01:39:07Z">
+        <test-method status="PASS" signature="SetupAfterEveryTest()[pri:0, instance:tests.Sprint4Tests@763d9750]" name="SetupAfterEveryTest" is-config="true" duration-ms="610" started-at="2019-07-20T12:26:48Z" finished-at="2019-07-20T12:26:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetupAfterEveryTest -->
       </class> <!-- tests.Sprint4Tests -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite (2) -->
+    </test> <!-- RegressionSprint4 -->
+  </suite> <!-- Suite4 -->
+  <suite name="Suite5" duration-ms="14264" started-at="2019-07-20T12:26:48Z" finished-at="2019-07-20T12:27:03Z">
+    <groups>
+    </groups>
+    <test name="RegressionSprint5" duration-ms="14264" started-at="2019-07-20T12:26:48Z" finished-at="2019-07-20T12:27:03Z">
+      <class name="tests.Sprint5Tests">
+        <test-method status="PASS" signature="SetupBeforeEveryTest()[pri:0, instance:tests.Sprint5Tests@22a71081]" name="SetupBeforeEveryTest" is-config="true" duration-ms="2024" started-at="2019-07-20T12:26:48Z" finished-at="2019-07-20T12:26:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupBeforeEveryTest -->
+        <test-method status="PASS" signature="Sprint5TestFemale()[pri:0, instance:tests.Sprint5Tests@22a71081]" name="Sprint5TestFemale" duration-ms="3925" started-at="2019-07-20T12:26:50Z" finished-at="2019-07-20T12:26:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sprint5TestFemale -->
+        <test-method status="PASS" signature="SetupAfterEveryTest()[pri:0, instance:tests.Sprint5Tests@22a71081]" name="SetupAfterEveryTest" is-config="true" duration-ms="613" started-at="2019-07-20T12:26:54Z" finished-at="2019-07-20T12:26:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupAfterEveryTest -->
+        <test-method status="PASS" signature="SetupBeforeEveryTest()[pri:0, instance:tests.Sprint5Tests@22a71081]" name="SetupBeforeEveryTest" is-config="true" duration-ms="2016" started-at="2019-07-20T12:26:55Z" finished-at="2019-07-20T12:26:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupBeforeEveryTest -->
+        <test-method status="PASS" signature="Sprint5TestOther()[pri:0, instance:tests.Sprint5Tests@22a71081]" name="Sprint5TestOther" duration-ms="5065" started-at="2019-07-20T12:26:57Z" finished-at="2019-07-20T12:27:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sprint5TestOther -->
+        <test-method status="PASS" signature="SetupAfterEveryTest()[pri:0, instance:tests.Sprint5Tests@22a71081]" name="SetupAfterEveryTest" is-config="true" duration-ms="619" started-at="2019-07-20T12:27:02Z" finished-at="2019-07-20T12:27:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupAfterEveryTest -->
+      </class> <!-- tests.Sprint5Tests -->
+    </test> <!-- RegressionSprint5 -->
+  </suite> <!-- Suite5 -->
+  <suite name="Suite1" duration-ms="5815" started-at="2019-07-20T12:26:12Z" finished-at="2019-07-20T12:26:18Z">
+    <groups>
+    </groups>
+    <test name="RegressionSprint1" duration-ms="5815" started-at="2019-07-20T12:26:12Z" finished-at="2019-07-20T12:26:18Z">
+      <class name="tests.Sprint1Tests">
+        <test-method status="PASS" signature="SetupBeforeEveryTest()[pri:0, instance:tests.Sprint1Tests@1761e840]" name="SetupBeforeEveryTest" is-config="true" duration-ms="2581" started-at="2019-07-20T12:26:12Z" finished-at="2019-07-20T12:26:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupBeforeEveryTest -->
+        <test-method status="PASS" signature="Sprint1Test()[pri:0, instance:tests.Sprint1Tests@1761e840]" name="Sprint1Test" duration-ms="2588" started-at="2019-07-20T12:26:14Z" finished-at="2019-07-20T12:26:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sprint1Test -->
+        <test-method status="PASS" signature="SetupAfterEveryTest()[pri:0, instance:tests.Sprint1Tests@1761e840]" name="SetupAfterEveryTest" is-config="true" duration-ms="624" started-at="2019-07-20T12:26:17Z" finished-at="2019-07-20T12:26:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupAfterEveryTest -->
+      </class> <!-- tests.Sprint1Tests -->
+    </test> <!-- RegressionSprint1 -->
+  </suite> <!-- Suite1 -->
+  <suite name="Suite2" duration-ms="5267" started-at="2019-07-20T12:26:18Z" finished-at="2019-07-20T12:26:23Z">
+    <groups>
+    </groups>
+    <test name="RegressionSprint2" duration-ms="5267" started-at="2019-07-20T12:26:18Z" finished-at="2019-07-20T12:26:23Z">
+      <class name="tests.Sprint2Tests">
+        <test-method status="PASS" signature="SetupBeforeEveryTest()[pri:0, instance:tests.Sprint2Tests@18ef96]" name="SetupBeforeEveryTest" is-config="true" duration-ms="2022" started-at="2019-07-20T12:26:18Z" finished-at="2019-07-20T12:26:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupBeforeEveryTest -->
+        <test-method status="PASS" signature="Sprint2Test()[pri:0, instance:tests.Sprint2Tests@18ef96]" name="Sprint2Test" duration-ms="2635" started-at="2019-07-20T12:26:20Z" finished-at="2019-07-20T12:26:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sprint2Test -->
+        <test-method status="PASS" signature="SetupAfterEveryTest()[pri:0, instance:tests.Sprint2Tests@18ef96]" name="SetupAfterEveryTest" is-config="true" duration-ms="610" started-at="2019-07-20T12:26:22Z" finished-at="2019-07-20T12:26:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupAfterEveryTest -->
+      </class> <!-- tests.Sprint2Tests -->
+    </test> <!-- RegressionSprint2 -->
+  </suite> <!-- Suite2 -->
+  <suite name="Suite3" duration-ms="12999" started-at="2019-07-20T12:26:23Z" finished-at="2019-07-20T12:26:36Z">
+    <groups>
+    </groups>
+    <test name="RegressionSprint3" duration-ms="12999" started-at="2019-07-20T12:26:23Z" finished-at="2019-07-20T12:26:36Z">
+      <class name="tests.Sprint3Tests">
+        <test-method status="PASS" signature="SetupBeforeEveryTest()[pri:0, instance:tests.Sprint3Tests@4c75cab9]" name="SetupBeforeEveryTest" is-config="true" duration-ms="2029" started-at="2019-07-20T12:26:23Z" finished-at="2019-07-20T12:26:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupBeforeEveryTest -->
+        <test-method status="PASS" signature="Sprint3TestFemale()[pri:0, instance:tests.Sprint3Tests@4c75cab9]" name="Sprint3TestFemale" duration-ms="2788" started-at="2019-07-20T12:26:25Z" finished-at="2019-07-20T12:26:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sprint3TestFemale -->
+        <test-method status="PASS" signature="SetupAfterEveryTest()[pri:0, instance:tests.Sprint3Tests@4c75cab9]" name="SetupAfterEveryTest" is-config="true" duration-ms="2863" started-at="2019-07-20T12:26:28Z" finished-at="2019-07-20T12:26:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupAfterEveryTest -->
+        <test-method status="PASS" signature="SetupBeforeEveryTest()[pri:0, instance:tests.Sprint3Tests@4c75cab9]" name="SetupBeforeEveryTest" is-config="true" duration-ms="2053" started-at="2019-07-20T12:26:31Z" finished-at="2019-07-20T12:26:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupBeforeEveryTest -->
+        <test-method status="PASS" signature="Sprint3TestOther()[pri:0, instance:tests.Sprint3Tests@4c75cab9]" name="Sprint3TestOther" duration-ms="2654" started-at="2019-07-20T12:26:33Z" finished-at="2019-07-20T12:26:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sprint3TestOther -->
+        <test-method status="PASS" signature="SetupAfterEveryTest()[pri:0, instance:tests.Sprint3Tests@4c75cab9]" name="SetupAfterEveryTest" is-config="true" duration-ms="609" started-at="2019-07-20T12:26:35Z" finished-at="2019-07-20T12:26:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupAfterEveryTest -->
+      </class> <!-- tests.Sprint3Tests -->
+    </test> <!-- RegressionSprint3 -->
+  </suite> <!-- Suite3 -->
 </testng-results>
