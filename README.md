@@ -14,6 +14,16 @@ https://gradle.org/
 TestNG is a testing framework for the Java programming language inspired by JUnit and NUnit. The design goal of TestNG is to cover a wider range of test categories: unit, functional, end-to-end, integration, etc., with more powerful and easy-to-use functionalities.
 https://testng.org/doc/
 
+#### Run Tests
+There are three ways of running test cases of this project:
+* Using testngrunall.xml
+* Using TestNGRunner class
+* Using TestNGFactory annotation
+
+#### TestNG Eclipse plug-in
+The TestNG Eclipse plug-in allows you to run your TestNG tests from Eclipse and easily monitor their execution and their output.
+https://testng.org/doc/eclipse.html
+
 ## UltimateQA Practice site <img src ="UserInterfaceTesting.Framework.Puma/images/ultimateqa.png" width=79>
 A free place to practice some scenarios like:
 * Testing a large complicated page
