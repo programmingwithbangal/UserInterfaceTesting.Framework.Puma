@@ -28,10 +28,22 @@ Eclipse IDE is used to develop this Framework.
 
 ### Run Tests
 There are three ways of running test cases of this project:
-* Using testngrunall.xml
-* Using TestNGRunner class
-* Using TestNGFactory annotation
 
-### TestNG Eclipse plug-in
+#### Using testngrunall.xml
+* Open file in Eclipse: ..\UserInterfaceTesting.Framework.Puma\testngrunall.xml
+* Right click => Run As
+* TestNG Suite
+
+#### Using TestNGRunner class
+* Open file in Eclipse: ..\UserInterfaceTesting.Framework.Puma\src\test\java\factory\TestNGFactory.java
+* Right click => Run As
+* Java Application
+
+#### Using TestNGFactory annotation
+* Open file in Eclipse: ..\UserInterfaceTesting.Framework.Puma\src\test\java\factory\TestNGFactory.java
+* Right click => Run As
+* TestNG Test
+
+#### TestNG Eclipse plug-in
 The TestNG Eclipse plug-in allows you to run your TestNG tests from Eclipse and easily monitor their execution and their output.
 https://testng.org/doc/eclipse.html
