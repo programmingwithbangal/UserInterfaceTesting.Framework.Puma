@@ -33,16 +33,19 @@ There are three ways of running test cases of this project:
 * Open file in Eclipse: ..\UserInterfaceTesting.Framework.Puma\testngrunall.xml
 * Right click => Run As
 * TestNG Suite
+<img src ="UserInterfaceTesting.Framework.Puma/images/testngrunall.png" width=350>
 
-#### Using TestNGRunner class
-* Open file in Eclipse: ..\UserInterfaceTesting.Framework.Puma\src\test\java\factory\TestNGFactory.java
+#### Using TestNGRunner.java
+* Open file in Eclipse: ..\UserInterfaceTesting.Framework.Puma\src\test\java\runner\TestNGRunner.java
 * Right click => Run As
 * Java Application
+<img src ="UserInterfaceTesting.Framework.Puma/images/testngrunner.png" width=350>
 
-#### Using TestNGFactory annotation
+#### Using TestNGFactory.java
 * Open file in Eclipse: ..\UserInterfaceTesting.Framework.Puma\src\test\java\factory\TestNGFactory.java
 * Right click => Run As
 * TestNG Test
+<img src ="UserInterfaceTesting.Framework.Puma/images/testngfactory.png" width=350>
 
 #### TestNG Eclipse plug-in
 The TestNG Eclipse plug-in allows you to run your TestNG tests from Eclipse and easily monitor their execution and their output.
