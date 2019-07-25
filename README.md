@@ -29,7 +29,7 @@ Eclipse IDE is used to develop this Framework.
 ### Run Tests
 There are three ways of running test cases of this project:
 
-#### Using testngrunall.xml
+#### Using testngrunall.xml (run testng test classes in parallel)
 * Open file in Eclipse: ..\UserInterfaceTesting.Framework.Puma\testngrunall.xml
 * Right click => Run As
 * TestNG Suite
