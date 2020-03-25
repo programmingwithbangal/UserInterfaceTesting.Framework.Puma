@@ -10,7 +10,7 @@ public class WebDriverFactory
 		System.out.println(path);
 
 		//Invoke driver.exe
-		System.setProperty("webdriver.chrome.driver", path + "/drivers/chromedriver74/chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", path + "/drivers/chromedriver80/chromedriver.exe");
 		
 		//Create Driver object
 		WebDriver driver = new ChromeDriver();

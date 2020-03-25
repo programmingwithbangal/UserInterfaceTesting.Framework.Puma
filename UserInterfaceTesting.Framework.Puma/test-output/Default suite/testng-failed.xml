@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="tests.Sprint5Tests">
+        <methods>
+          <include name="Sprint5TestOther"/>
+          <include name="SetupAfterEveryTest"/>
+          <include name="Sprint5TestFemale"/>
+          <include name="SetupBeforeEveryTest"/>
+        </methods>
+      </class> <!-- tests.Sprint5Tests -->
+      <class name="tests.Sprint3Tests">
+        <methods>
+          <include name="Sprint3TestFemale"/>
+          <include name="SetupAfterEveryTest"/>
+          <include name="SetupBeforeEveryTest"/>
+          <include name="Sprint3TestOther"/>
+        </methods>
+      </class> <!-- tests.Sprint3Tests -->
+      <class name="tests.Sprint4Tests">
+        <methods>
+          <include name="SetupAfterEveryTest"/>
+          <include name="SetupBeforeEveryTest"/>
+          <include name="Sprint4TestFemale"/>
+          <include name="Sprint4TestOther"/>
+        </methods>
+      </class> <!-- tests.Sprint4Tests -->
+      <class name="tests.Sprint2Tests">
+        <methods>
+          <include name="SetupAfterEveryTest"/>
+          <include name="Sprint2Test"/>
+          <include name="SetupBeforeEveryTest"/>
+        </methods>
+      </class> <!-- tests.Sprint2Tests -->
+      <class name="tests.Sprint1Tests">
+        <methods>
+          <include name="SetupAfterEveryTest"/>
+          <include name="Sprint1Test"/>
+          <include name="SetupBeforeEveryTest"/>
+        </methods>
+      </class> <!-- tests.Sprint1Tests -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
